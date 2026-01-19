@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using the following metadata.
+title: Irreversible Episode-Induced Scarring and Differential Repair in Simulated Bipolar Disorder Progression
+authors:
+  - family-names: Cheung
+    given-names: N.
+version: 1.0.0  # Adjust if a specific version is tagged in the repository
+doi: 10.5281/zenodo.18304566
+date-released: 2026-01-20  # Approximate; update with exact release date if available
+repository-code: https://github.com/cheungngo/Irreversible-Episode-Induced-Scarring-and-Differential-Repair.git
+license: MIT  # Common default for open-source code; replace with actual license from repository
+keywords:
+  - computational modeling
+  - bipolar disorder
+  - kindling hypothesis
+  - antidepressant mechanisms
+  - neural networks
+  - synaptic plasticity
+type: software
