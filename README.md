@@ -26,6 +26,10 @@ any funding agency in the public, commercial, or not-for-profit sectors.
 
 **Ethics Declaration**: Not applicable.
 
+Citation:
+
+Cheung, N. (2026). Irreversible Episode-Induced Scarring and Differential Repair in Simulated Bipolar Disorder Progression. Zenodo. https://doi.org/10.5281/zenodo.18304566
+
 
 
 ## Abstract
